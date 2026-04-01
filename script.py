@@ -1,1 +1,2 @@
-echo "print("Hello, Git!")" > script.py
+name = "Haziq"
+print (name)
